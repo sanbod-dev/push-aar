@@ -4,8 +4,8 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.sanbod-dev</groupId>
-    <artifactId>android-push</artifactId>
+    <groupId>com.sanbod.push</groupId>
+    <artifactId>pushApi</artifactId>
     <version>v1.0.8</version>
     <packaging>aar</packaging>
 
