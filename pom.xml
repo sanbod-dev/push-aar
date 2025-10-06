@@ -6,7 +6,7 @@
 
     <groupId>com.sanbod.push</groupId>
     <artifactId>pushApi</artifactId>
-    <version>1.0.23</version>
+    <version>1.0.24</version>
     <packaging>pom</packaging>
     <name>Android Push Library</name>
     <description>Android library for push notifications</description>
@@ -74,4 +74,14 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>com.jayway.maven.plugins.android.generation2</groupId>
+                <artifactId>android-maven-plugin</artifactId>
+                <version>4.6.0</version>
+                <extensions>true</extensions>
+            </plugin>
+        </plugins>
+    </build>
 </project>
