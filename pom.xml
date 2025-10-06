@@ -6,7 +6,7 @@
 
     <groupId>com.sanbod.push</groupId>
     <artifactId>pushApi</artifactId>
-    <version>1.0.26</version>
+    <version>1.0.27</version>
     <packaging>jar</packaging>
     <name>Android Push Library</name>
     <description>Android library for push notifications</description>
