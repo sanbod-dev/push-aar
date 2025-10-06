@@ -40,7 +40,13 @@
         <dependency>
             <groupId>androidx.lifecycle</groupId>
             <artifactId>lifecycle-process</artifactId>
-            <version>2.3.0</version>
+            <version>2.0.0</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>androidx.lifecycle</groupId>
+            <artifactId>lifecycle-common</artifactId>
+            <version>2.0.0</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
