@@ -1,3 +1,3 @@
 install: 
   - FILE="-Dfile=notifApi-release.aar"
-  - mvn install:install-file $FILE -DgroupId=com.sanbod.push -DartifactId=pushApi -Dversion=1.0.21 -Dpackaging=aar -DgeneratePom=false -DpomFile=pom.xml
+  - mvn install:install-file $FILE -DgroupId=com.sanbod.push -DartifactId=pushApi -Dversion=1.0.22 -Dpackaging=aar -DgeneratePom=false -DpomFile=pom.xml
